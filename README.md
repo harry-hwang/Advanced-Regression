@@ -23,10 +23,15 @@ I import the data(data description included) and do some exploratory analysis fi
 **1. Linear Regression** 
 
 **2. Ridge Regression**
+
 **3. Lasso Regression**
+
 **4. Polynomial Regression**
+
 **5. SVM regression (linear)**
+
 **6. SVM regression (RBF)**
+
 **7. KNN regressor**
 
 #### End
