@@ -21,6 +21,7 @@ I import the data(data description included) and do some exploratory analysis fi
 ## Models
 
 **1. Linear Regression** 
+
 **2. Ridge Regression**
 **3. Lasso Regression**
 **4. Polynomial Regression**
